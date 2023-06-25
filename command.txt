@@ -1,0 +1,1 @@
+pyinstaller -w Hi_music.py -i tubiaosee.ico --hidden-import main_root --hidden-import music_get --hidden-import weather
